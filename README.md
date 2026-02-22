@@ -1,13 +1,18 @@
 Implementa un agente inteligente que resuelve el 8‑Puzzle utilizando el algoritmo A* con heurística de distancia Manhattan.
 El agente recibe un estado inicial y encuentra la secuencia óptima de movimientos para llegar al estado objetivo.
 El agente debe transformar un estado inicial como:
+
 7 2 4
-5 6  
+
+5 6 
+
 8 3 1
 
 En el estado objetivo:
   1 2
+
 3 4 5
+
 6 7 8
 
 Utilizando la menor cantidad de movimientos posible.
