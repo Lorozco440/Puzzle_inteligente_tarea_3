@@ -3,13 +3,17 @@ El agente recibe un estado inicial y encuentra la secuencia óptima de movimient
 El agente debe transformar un estado inicial como:
 
 7 2 4
+
 5 6 
+
 8 3 1
 
 En el estado objetivo:
   
   1 2
+  
 3 4 5
+
 6 7 8
 
 Utilizando la menor cantidad de movimientos posible.
